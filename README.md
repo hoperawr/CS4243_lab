@@ -1,5 +1,10 @@
 # CS4243_lab
 
+reference:  
+https://github.com/ljhgabe/CS4243-Lab-Materials  
+https://github.com/xbresson/CS4243_2022  
+
+
 ## Local Installation for OSX & Linux
 
 1. Conda installation
